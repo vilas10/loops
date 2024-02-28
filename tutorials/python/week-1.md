@@ -14,6 +14,36 @@ Session 1 (2 hours)
 - **Setting up Python environment**: Install Python on your computer and choose an Integrated Development Environment (IDE) like PyCharm or Visual Studio Code to write and run Python code.
 - **Basic syntax**: Learn about variables, data types (integers, floats, strings, booleans), basic arithmetic operators (+, -, *, /), and how to print output using the print statement.
 
+## Setting up Python Environment
+- Download Python from https://www.python.org/downloads and complete installation
+  - Verify successful installation using command:  
+    ```
+    python3 --version
+    ```
+- Install IDE: [VS Code](https://code.visualstudio.com/), [PyCharm](https://www.jetbrains.com/pycharm/)
+    - For VS Code, install Python and Jupyter notebook extensions. 
+- Set Up Virtual Environments:
+    - Open the Terminal.
+    - Navigate to your project directory:  
+      ```
+      cd path/to/your/project
+      ```
+    - Create a virtual environment:  
+      ```
+      python3 -m venv myenv
+      ```
+    - Activate the virtual environment:  
+      ```
+      source myenv/bin/activate
+      ```
+    - Deactivate the virtual environment:  
+      ```
+      deactivate
+      ```
+- To install any packages:  
+  ```pip install package_name```
+
+## Basic Syntax
 **Example Code Snippets**:
 ```python
 # Example code for variables and data types

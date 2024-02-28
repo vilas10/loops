@@ -140,7 +140,7 @@ print("Square of 3:", result)
     print("Reversed:", reversed_text)
     ```
 
-Session 2 (30 mins)
+Session 2 (2 hours)
 {: .fs-6 .fw-300 }
 
 - **Nested loops**: Understand how to use loops within loops (nested loops) for more complex iterations.
@@ -283,12 +283,12 @@ greet("Bob", "Hi")
         print(num, "is not a perfect number")
     ```
 
-Session 3
+Session 3 (30 mins)
 {: .fs-6 .fw-300 }
 
-- Input
-- One-line If-Else
-- Main Entry
+- **Input**
+- **One-line If-Else**
+- **Main Entry**
 
 ### Input Function
 The `input()` function in Python allows us to receive user input from the keyboard. It prompts the user with a message and waits for the user to type something and press Enter. The input is always returned as a string.
