@@ -7,7 +7,9 @@ nav_order: 2
 ---
 
 # Week 2: Control Structures and Functions
-## Session 1 (2 hours):
+Session 1 (2 hours)
+{: .fs-6 .fw-300 }
+
 - **Conditional statements**: Use if, elif, and else statements for decision-making based on conditions.
 - **Loops**: Learn about for and while loops for iterating over sequences of elements.
 - **Functions**: Define reusable blocks of code using functions with parameters and return statements.
@@ -138,7 +140,9 @@ print("Square of 3:", result)
     print("Reversed:", reversed_text)
     ```
 
-## Session 2 (30 mins):
+Session 2 (30 mins)
+{: .fs-6 .fw-300 }
+
 - **Nested loops**: Understand how to use loops within loops (nested loops) for more complex iterations.
 - **Break and continue**: Learn about the break and continue statements for controlling loop execution.
 - **Function arguments**: Explore different ways of passing arguments to functions, including positional arguments, keyword arguments, and default values.
@@ -279,7 +283,9 @@ greet("Bob", "Hi")
         print(num, "is not a perfect number")
     ```
 
-## Session 3
+Session 3
+{: .fs-6 .fw-300 }
+
 - Input
 - One-line If-Else
 - Main Entry

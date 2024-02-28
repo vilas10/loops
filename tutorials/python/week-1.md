@@ -7,7 +7,9 @@ nav_order: 1
 ---
 
 # Week 1: Introduction to Python
-## Session 1 (2 hours):
+Session 1 (2 hours)
+{: .fs-6 .fw-300 }
+
 - **Introduction to Python**: Python is a high-level programming language known for its simplicity and readability. It is widely used in various domains such as web development, data science, artificial intelligence, etc.
 - **Setting up Python environment**: Install Python on your computer and choose an Integrated Development Environment (IDE) like PyCharm or Visual Studio Code to write and run Python code.
 - **Basic syntax**: Learn about variables, data types (integers, floats, strings, booleans), basic arithmetic operators (+, -, *, /), and how to print output using the print statement.

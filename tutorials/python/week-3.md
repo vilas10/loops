@@ -7,7 +7,9 @@ nav_order: 3
 ---
 
 # Week 3: Lists and Tuples
-Session 1 (2 hours): {: .fs-6 .fw-300 }
+Session 1 (2 hours)
+{: .fs-6 .fw-300 }
+
 - **Lists**: Learn about lists, a versatile data structure in Python that can hold elements of different types.
 - **List operations**: Explore various operations on lists such as indexing, slicing, appending, and extending.
 - **Tuples**: Understand tuples, which are similar to lists but immutable.
@@ -97,7 +99,9 @@ print(fruits)
         print("List is not a palindrome")
     ```
 
-Session 2 (2 hours): {: .fs-6 .fw-300 }
+Session 2 (2 hours)
+{: .fs-6 .fw-300 }
+
 - **Tuples vs Lists**: Understand the differences between tuples and lists and when to use each.
 - **List comprehensions**: Learn about list comprehensions for creating lists based on existing lists or other iterables.
 - **Tuple unpacking**: Explore tuple
