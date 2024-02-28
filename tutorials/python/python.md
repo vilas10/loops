@@ -1,7 +1,9 @@
 ---
 title: Python Tutorial
 layout: default
-parent: Tutorials 
+parent: Tutorials
+has_children: true
+nav_order: 1
 ---
 
 # Python Tutorial

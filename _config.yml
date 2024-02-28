@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Loops
+description: A learning platform that encourages iterative learning process!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://vilas10.github.io/loops/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  About: https://vilas10.github.io/loops/
