@@ -3,6 +3,7 @@ title: Week 1
 layout: default
 parent: Python Tutorial 
 grand_parent: Tutorials
+nav_order: 1
 ---
 
 # Week 1: Introduction to Python

@@ -2,7 +2,6 @@
 title: Python Tutorial
 layout: default
 parent: Tutorials 
-grand_parent: home
 ---
 
 # Python Tutorial
