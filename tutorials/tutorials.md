@@ -7,6 +7,6 @@ has_children: true
 
 # Loops Tutorials
 
-Welcome to tutorials from Loops!
+Welcome to tutorials from Loops! Please checkout the tutorials of your interest below.
 {: .fs-6 .fw-300 }
 
