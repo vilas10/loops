@@ -30,7 +30,7 @@ quotient_result = x / y
 print("Sum of x and y:", sum_result)
 ```
 
-**Exercises**:
+## Exercises
 1. Print "Hello, World!" to the console. (Easy)
 2. Calculate the area of a rectangle with length 5 and width 3. (Easy)
 3. Convert a temperature of 25 degrees Celsius to Fahrenheit. (Medium)
@@ -42,7 +42,7 @@ print("Sum of x and y:", sum_result)
 9. Calculate the square root of a number. (Medium)
 10. Check if a given string is empty or not. (Easy)
 
-### Exercise Solutions:
+## Exercise Solutions:
 1. ```python
    print("Hello, World!")
    ```

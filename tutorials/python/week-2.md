@@ -35,7 +35,7 @@ result = square(3)
 print("Square of 3:", result)
 ```
 
-### Exercises
+## Exercises
 1. Write a Python function to calculate the factorial of a given number. (Medium)
 2. Print the multiplication table of a given number. (Easy)
 3. Check if a number entered by the user is prime or not. (Medium)
@@ -47,7 +47,7 @@ print("Square of 3:", result)
 9. Check if a given year is a leap year or not. (Easy)
 10. Reverse a given string using a loop. (Easy)
 
-### Exercise Solutions
+## Exercise Solutions
 1. ```python
    def factorial(n):
        if n == 0:
@@ -164,7 +164,7 @@ greet("Alice")
 greet("Bob", "Hi")
 ```
 
-### Exercises
+## Exercises
 1. Write a Python program to print a pattern using nested loops. (Hard)
 2. Write a function to find the factorial of a number using recursion. (Medium)
 3. Print all prime numbers between 10 and 50. (Medium)
@@ -184,7 +184,7 @@ greet("Bob", "Hi")
    (Medium)
 10. Write a function to check if a number is a perfect number or not. (Hard)
 
-### Exercise Solutions
+## Exercise Solutions
 1. ```python
    for i in range(5):
        for j in range(i + 1):
@@ -335,7 +335,7 @@ if __name__ == "__main__":
     main()
 ```
 
-### Exercises:
+## Exercises:
 1. Write a Python program that takes the user's age as input and prints "You are a minor" if the age is less than 18, otherwise prints "You are an adult".
 2. Convert the following `if-else` statement into a one-line statement:
    ```python
@@ -344,7 +344,7 @@ if __name__ == "__main__":
    print(result)
    ```
 
-### Exercise Solutions:
+## Exercise Solutions:
 1. ```python
    age = int(input("Enter your age: "))
    status = "You are a minor" if age < 18 else "You are an adult"

@@ -1,5 +1,5 @@
 ---
-title: Week 1
+title: Week 3
 layout: default
 parent: Python Tutorial 
 grand_parent: Tutorials
@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 # Week 3: Lists and Tuples
-## Session 1 (2 hours):
+Session 1 (2 hours): {: .fs-6 .fw-300 }
 - **Lists**: Learn about lists, a versatile data structure in Python that can hold elements of different types.
 - **List operations**: Explore various operations on lists such as indexing, slicing, appending, and extending.
 - **Tuples**: Understand tuples, which are similar to lists but immutable.
@@ -22,7 +22,7 @@ fruits.append("grape")  # Appending
 print(fruits)
 ```
 
-### Exercises
+## Exercises
 1. Write a Python program to count the number of elements in a list. (Easy)
 2. Write a function to find the largest element in a list. (Medium)
 3. Write a program to remove duplicates from a list. (Medium)
@@ -34,7 +34,7 @@ print(fruits)
 9. Write a Python program to shuffle a list randomly. (Hard)
 10. Write a function to check if a list is palindrome or not. (Medium)
 
-### Exercise Solutions
+## Exercise Solutions
 1. ```python
    fruits = ["apple", "banana", "cherry", "orange"]
    print("Number of elements:", len(fruits))
@@ -97,7 +97,7 @@ print(fruits)
         print("List is not a palindrome")
     ```
 
-## Session 2 (2 hours):
+Session 2 (2 hours): {: .fs-6 .fw-300 }
 - **Tuples vs Lists**: Understand the differences between tuples and lists and when to use each.
 - **List comprehensions**: Learn about list comprehensions for creating lists based on existing lists or other iterables.
 - **Tuple unpacking**: Explore tuple
@@ -117,7 +117,7 @@ print("x-coordinate:", x)
 print("y-coordinate:", y)
 ```
 
-### Exercises
+## Exercises
 1. Write a Python program to find the intersection of two lists. (Medium)
 2. Write a function to flatten a nested list. (Hard)
 3. Write a program to convert a list of characters into a string. (Easy)
@@ -129,7 +129,7 @@ print("y-coordinate:", y)
 9. Write a Python program to extract the unique elements from a list of lists. (Hard)
 10. Write a function to find the frequency of occurrence of an element in a list. (Medium)
 
-### Exercise Solutions
+## Exercise Solutions
 1. ```python
    list1 = [1, 2, 3, 4, 5]
    list2 = [4, 5, 6, 7, 8]
