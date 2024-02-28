@@ -41,7 +41,9 @@ Session 1 (2 hours)
       deactivate
       ```
 - To install any packages:  
-  ```pip install package_name```
+  ```
+  pip install package_name
+  ```
 
 ## Basic Syntax
 **Example Code Snippets**:
@@ -68,11 +70,8 @@ print("Sum of x and y:", sum_result)
 3. Convert a temperature of 25 degrees Celsius to Fahrenheit. (Medium)
 4. Check if a number is even or odd and print the result. (Medium)
 5. Swap the values of two variables x and y. (Hard)
-6. Calculate the sum of digits of a three-digit number. (Hard)
-7. Print the Fibonacci series up to 10 terms. (Hard)
-8. Find the maximum of two numbers x and y. (Medium)
-9. Calculate the square root of a number. (Medium)
-10. Check if a given string is empty or not. (Easy)
+6. Find the maximum of two numbers x and y. (Medium)
+7. Check if a given string is empty or not. (Easy)
 
 ## Exercise Solutions:
 1. ```python
