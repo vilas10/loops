@@ -71,30 +71,12 @@ print("Sum of x and y:", sum_result)
    print("Swapped values: x =", x, ", y =", y)
    ```
 6. ```python
-   number = 123
-   sum_of_digits = sum(int(digit) for digit in str(number))
-   print("Sum of digits:", sum_of_digits)
-   ```
-7. ```python
-   n = 10
-   fib_sequence = [0, 1]
-   for i in range(2, n):
-       fib_sequence.append(fib_sequence[-1] + fib_sequence[-2])
-   print("Fibonacci series:", fib_sequence)
-   ```
-8. ```python
    x = 5
    y = 10
    maximum = x if x > y else y
    print("Maximum:", maximum)
    ```
-9. ```python
-   import math
-   num = 25
-   square_root = math.sqrt(num)
-   print("Square root:", square_root)
-   ```
-10. ```python
+7. ```python
     string = "Hello"
     if string:
         print("String is not empty")
