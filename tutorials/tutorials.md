@@ -1,9 +1,11 @@
 ---
 title: Tutorials
 layout: default
-nav_order: 2 
+nav_order: 2.3
 has_children: true
 ---
 
-Welcome to Loops Tutorials!
+# Loops Tutorials
+
+Welcome to tutorials from Loops! 
 
