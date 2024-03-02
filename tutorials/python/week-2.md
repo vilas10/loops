@@ -214,9 +214,7 @@ greet("Bob", "Hi")
                return False
        return True
    
-   for num in range(10
-
-, 51):
+   for num in range(10, 51):
        if is_prime(num):
            print(num)
    ```

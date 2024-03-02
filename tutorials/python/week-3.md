@@ -25,6 +25,7 @@ print(fruits)
 ```
 
 ## Exercises
+[Open Python Compiler](tutorials/python/python-compiler.html)
 1. Write a Python program to count the number of elements in a list. (Easy)
 2. Write a function to find the largest element in a list. (Medium)
 3. Write a program to remove duplicates from a list. (Medium)
