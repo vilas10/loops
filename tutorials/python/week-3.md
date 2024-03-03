@@ -25,8 +25,6 @@ print(fruits)
 ```
 
 ## Exercises
-[Open Python Compiler](/tutorials/python/python-compiler.html)
-<iframe src="https://trinket.io/embed/python3/01ec54bf23" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 1. Write a Python program to count the number of elements in a list. (Easy)
 2. Write a function to find the largest element in a list. (Medium)
 3. Write a program to remove duplicates from a list. (Medium)
@@ -37,6 +35,9 @@ print(fruits)
 8. Write a program to merge two lists into a single list. (Medium)
 9. Write a Python program to shuffle a list randomly. (Hard)
 10. Write a function to check if a list is palindrome or not. (Medium)
+
+## Try Your Code Here
+<iframe src="https://trinket.io/embed/python3/01ec54bf23" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ## Exercise Solutions
 1. ```python
@@ -134,6 +135,9 @@ print("y-coordinate:", y)
 8. Write a function to check if a list contains any duplicates. (Medium)
 9. Write a Python program to extract the unique elements from a list of lists. (Hard)
 10. Write a function to find the frequency of occurrence of an element in a list. (Medium)
+
+## Try Your Code Here
+<iframe src="https://trinket.io/embed/python3/01ec54bf23" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ## Exercise Solutions
 1. ```python

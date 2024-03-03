@@ -49,6 +49,9 @@ print("Square of 3:", result)
 9. Check if a given year is a leap year or not. (Easy)
 10. Reverse a given string using a loop. (Easy)
 
+## Try Your Code Here
+<iframe src="https://trinket.io/embed/python3/01ec54bf23" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 ## Exercise Solutions
 1. ```python
    def factorial(n):
@@ -187,6 +190,9 @@ greet("Bob", "Hi")
    ```
    (Medium)
 10. Write a function to check if a number is a perfect number or not. (Hard)
+
+## Try Your Code Here
+<iframe src="https://trinket.io/embed/python3/01ec54bf23" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ## Exercise Solutions
 1. ```python
@@ -347,6 +353,9 @@ if __name__ == "__main__":
    result = "Even" if num % 2 == 0 else "Odd"
    print(result)
    ```
+
+## Try Your Code Here
+<iframe src="https://trinket.io/embed/python3/01ec54bf23" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ## Exercise Solutions:
 1. ```python

@@ -73,6 +73,9 @@ print("Sum of x and y:", sum_result)
 6. Find the maximum of two numbers x and y. (Medium)
 7. Check if a given string is empty or not. (Easy)
 
+## Try Your Code Here
+<iframe src="https://trinket.io/embed/python3/01ec54bf23" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 ## Exercise Solutions:
 1. ```python
    print("Hello, World!")
